@@ -1,0 +1,6 @@
+{
+    "tabnineSelfHostedUpdater.serverUrl": "https://tabnine.customer.com",
+    "tabnineSelfHostedUpdater.useProxySupport": false,
+    "CodeGPT.model": "CodeGPT Plus",
+    "CodeGPT.apiKey": "CodeGPT Plus"
+}
